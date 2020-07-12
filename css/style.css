@@ -1,0 +1,61 @@
+body{
+
+    font-family: 'Open Sans','Oswald','Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+ul,li,ol{
+    list-style:none;
+}
+.clr{
+    clear: both;
+}
+.container-margin{
+    margin-bottom: 100px;
+}
+/* common css end */
+
+
+
+/* top-part start */
+
+/* top-part end */
+
+/* bannere part start */
+.carousel-bg{
+    background-color:#FBE7E7;
+    border-radius: 10px;
+}
+.carousel-item-padding{
+    padding:20px 40px ;
+}
+/* <!-- banner part end --> */
+
+
+/*  <!-- catagories part start --> */
+.goods-1,.goods-2, .goods-3{
+    padding: 10px 30px;
+}
+.goods-1{
+    background-color: #F0AD26;
+}
+.goods-2{
+    background-color: #E92974;
+}
+.goods-3{
+    background-color: #3943FA;
+}
+/*  <!-- catagories part end--> */
+
+/* <!-- shoes part start --> */
+.custom-card{
+    border: none;
+    box-shadow: 6px 6px 10px lightblue;
+}
+
+/* <!-- shoes part end --> */
+
+
+/* <!-- backpack part start --> */
+/* <!-- backpack part end --> */
